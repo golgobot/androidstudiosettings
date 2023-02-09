@@ -46,7 +46,6 @@
       <mapping ext="gwsq" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
-      <mapping ext="swig" type="PLAIN_TEXT" />
       <mapping pattern="METADATA" type="prototext" />
       <mapping ext="metadata" type="prototext" />
       <mapping ext="workflow" type="prototext" />

@@ -13,7 +13,6 @@
       <entry key="EnableUseInstanceOfOnEqualsCodeGeneration" value="true" />
       <entry key="IgnorePipertmpFiles" value="true" />
       <entry key="ReopenLastProjectOnStartup" value="true" />
-      <entry key="SwigAsTextFileTypeAssociation" value="true" />
       <entry key="SynchronizeFilesOnFrameActivation" value="true" />
     </appliedSettings>
   </component>
