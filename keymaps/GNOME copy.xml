@@ -43,6 +43,10 @@
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -57,6 +61,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="OverrideMethods" />
   <action id="Replace" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
