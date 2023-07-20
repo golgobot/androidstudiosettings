@@ -1,0 +1,13 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="RestrictedWearPreference" />
+    <option name="nonFavorites">
+      <list>
+        <option value="RestrictedWearPreference" />
+        <option value="package:com.google.android.clockwork.settings" />
+        <option value="package:" />
+        <option value="package:mine " />
+      </list>
+    </option>
+  </component>
+</application>
